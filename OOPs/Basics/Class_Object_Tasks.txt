@@ -1,0 +1,61 @@
+1. Book Management System:
+    - Design a class 'Book' with attributes like 'title', 'author', 'ISBN', and 'price'. Include methods to set and get these attributes. Implement a feature to display book details and search for a book by its title.
+
+2. Bank Account System:
+    - Create a class 'BankAccount' with attributes such as 'accountNumber', 'accountHolderName', and 'balance'. Provide methods to deposit and withdraw money and check the balance. Also, implement a method to display account details.
+
+3. Car Rental Service:
+    - Develop a class 'Car' with properties like 'carId', 'model', 'manufacturer', 'rentalPricePerDay', and 'isAvailable'. Implement methods to set and get car details, rent a car, and return a car.
+
+4. Library Management System:
+    - Define a class 'Library' with attributes like 'libraryName', 'address', and a list of 'books'. Include methods to add a book to the library, remove a book, and list all books available in the library.
+
+5. Employee Management System:
+    - Create a class 'Employee' with attributes such as 'employeeId', 'name', 'designation', 'salary', and 'dateOfJoining'. Implement methods to set and get employee details and calculate the number of years an employee has been with the company.
+
+6. Hotel Booking System:
+    - Design a class 'HotelRoom' with properties like 'roomNumber', 'roomType', 'pricePerNight', and 'isBooked'. Provide methods to book a room, check availability, and display room details.
+
+7. Student Information System:
+    - Develop a class 'Student' with attributes like 'rollNumber', 'name', 'age', 'course', and 'grade'. Include methods to set and get student details, and calculate the average grade of a list of students.
+
+8. Inventory Management System:
+    - Create a class 'Product' with attributes such as 'productId', 'productName', 'quantity', and 'price'. Implement methods to add and remove products from inventory, update product details, and display product information.
+
+9. Movie Ticket Booking System:
+    - Define a class 'MovieTicket' with attributes like 'ticketId', 'movieName', 'showTime', 'seatNumber', and 'price'. Provide methods to book a ticket, cancel a ticket, and display ticket details.
+
+10. Healthcare Management System:
+    - Develop a class 'Patient' with properties such as 'patientId', 'name', 'age', 'medicalHistory', and 'currentTreatment'. Implement methods to set and get patient details, add a new treatment record, and display patient history.
+
+-------New Ones With Array-------
+
+1. E-commerce Order System:
+    - Create a class 'Order' with attributes like 'orderId', 'customerId', 'productList', 'totalAmount', and 'status'. Implement methods to place an order, cancel an order, and display order details.
+
+2. Airline Reservation System:
+    - Design a class 'Flight' with properties such as 'flightNumber', 'departureCity', 'arrivalCity', 'departureTime', and 'seatsAvailable'. Provide methods to book a seat, cancel a booking, and display flight details.
+
+3. Real Estate Management System:
+    - Develop a class 'Property' with attributes like 'propertyId', 'ownerName', 'propertyType', 'address', 'price', and 'isAvailable'. Include methods to list a property for sale, mark it as sold, and display property details.
+
+4. Weather Monitoring System:
+    - Define a class 'WeatherStation' with attributes such as 'stationId', 'location', 'temperature', 'humidity', and 'windSpeed'. Implement methods to update weather data, and display the current weather report.
+
+5. Online Learning Platform:
+    - Create a class 'Course' with properties like 'courseId', 'title', 'instructorName', 'duration', and 'price'. Provide methods to enroll a student in a course, update course details, and display course information.
+
+6. Parking Lot Management System:
+    - Develop a class 'ParkingSpot' with attributes such as 'spotId', 'spotSize', 'isOccupied', and 'vehicleNumber'. Implement methods to park a vehicle, remove a vehicle, and display parking spot details.
+
+7. Gym Membership System:
+    - Define a class 'Member' with properties like 'memberId', 'name', 'membershipType', 'joinDate', and 'membershipFee'. Provide methods to enroll a new member, renew membership, and display member details.
+
+8. Taxi Booking System:
+    - Create a class 'Taxi' with attributes such as 'taxiId', 'driverName', 'carModel', 'location', and 'isAvailable'. Implement methods to book a taxi, end a ride, and display taxi details.
+
+9. Restaurant Management System:
+    - Develop a class 'MenuItem' with properties like 'itemId', 'name', 'description', 'price', and 'availability'. Provide methods to add a new menu item, update item details, and display the menu.
+
+10. Event Management System:
+    - Define a class 'Event' with attributes such as 'eventId', 'eventName', 'date', 'location', 'organizerName', and 'ticketPrice'. Implement methods to create a new event, update event details, and display event information.

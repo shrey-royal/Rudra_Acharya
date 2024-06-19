@@ -1,0 +1,58 @@
+1. Write a program in C++ to find the first 10 natural numbers.
+Sample output:
+The natural numbers are:
+1 2 3 4 5 6 7 8 9 10
+
+2. Write a program in C++ to find the sum of the first 10 natural numbers.
+Sample Output:
+Find the first 10 natural numbers:
+---------------------------------------
+The natural numbers are:
+1 2 3 4 5 6 7 8 9 10
+The sum of first 10 natural numbers: 55
+
+3. Write a program in C++ to display n terms of natural numbers and their sum.
+Sample Output:
+Input a number of terms: 7
+The natural numbers upto 7th terms are:
+1 2 3 4 5 6 7
+The sum of the natural numbers is: 28
+
+4. Write a program in C++ to find the perfect numbers between 1 and 500.
+The perfect numbers between 1 to 500 are:
+6
+28
+496
+
+5. Write a program in C++ to check whether a number is prime or not.
+Sample Output:
+Input a number to check prime or not: 13
+The entered number is a prime number.
+
+6. Write a program in C++ to find a prime number within a range.
+Input number for starting range: 1
+Input number for ending range: 100
+The prime numbers between 1 and 100 are:
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97
+The total number of prime numbers between 1 to 100 is: 25
+
+7. Write a program in C++ to find the factorial of a number.
+Sample output:
+Input a number to find the factorial: 5
+The factorial of the given number is: 120
+
+8. Write a program in C++ to find the last prime number that occurs before the entered number.
+Sample Output:
+Input a number to find the last prime number occurs before the number: 50
+47 is the last prime number before 50
+
+9. Write a program in C++ to find the Greatest Common Divisor (GCD) of two numbers.
+Sample Output:
+Input the first number: 25
+Input the second number: 15
+The Greatest Common Divisor is: 5
+
+10. Write a program in C++ to find the sum of the digits of a given number.
+Sample Output:
+Input a number: 1234
+The sum of digits of 1234 is: 10
