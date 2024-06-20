@@ -39,6 +39,14 @@ public:
         price = p;
     }
 
+    //Copy Constructor
+    Product(const Product& obj) {
+        this->id = obj.id;
+        this->name = obj.name;
+        this->quantity = obj.quantity;
+        this->price = obj.price;
+    }
+
     void display() {
         cout << "Id: " << id << endl;
         cout << "Name: " << name << endl;
@@ -51,8 +59,12 @@ int main() {
     Product watch;
     Product watch1(123, "Titan smart-watch", 1000, 1500);
 
-    watch.display();
+    // watch.display();
     watch1.display();
+
+    Product watch2(watch1);
+
+    watch2.display();
 
     return 0;
 }
